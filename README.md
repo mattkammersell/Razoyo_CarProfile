@@ -29,3 +29,13 @@ bin/magento setup:di:compile
 bin/magento setup:static-content:deploy
 bin/magento cache:clean
 ```
+
+### 4. Verify Installation
+
+You can verify the installation by logging in and visiting the new My Car tab after these steps are completed.
+
+![Index](https://github.com/mattkammersell/Razoyo_CarProfile/blob/master/images/index.png?raw=true)
+
+Once you make a selection, it's automatically saved to the customer and more details are shown.
+
+![Edit](https://github.com/mattkammersell/Razoyo_CarProfile/blob/master/images/selected.png?raw=true)
