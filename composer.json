@@ -1,6 +1,6 @@
 {
     "name": "razoyo/module-car-profile",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Car Profile Extension - https://exam.razoyo.com/magento",
     "type": "magento2-module",
     "require": {
